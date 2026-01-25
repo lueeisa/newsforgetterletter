@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+  <body
+    style="
+      margin: 0;
+      padding: 0;
+      background: #eeeeee;
+      font-family: Times, sans-serif;
+    "
+  >
+    <table width="100%" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="center" style="padding: 30px">
+          <table
+            width="600"
+            style="
+              background: #ffffff;
+              max-width: 600px;
+              padding: 30px;
+              border-radius: 6px;
+            "
+          >
+            <tr>
+              <td>
+                <h1 style="color: inherit" <h1>Tomorrow is Tuesday</h1>
+                <p style="font-size: 16px; line-height: 1.5; color: #151516">
+                  Welcome. Enjoy a mix original content from friends, a
+                  bookshelf of various reccomendations, nonlocal/local &
+                  imaginary events, and, as always, a weekly meditation class.
+                </p>
+
+                <! -- CASH BOX -- >
+
+                <table
+                  width="100%"
+                  cellpadding="0"
+                  cellspacing="0"
+                  border="0"
+                  style="
+                    background-color: #eeeeee;
+                    color: #inherit;
+                    font-family: 'Palentino', serif;
+                    padding: 20px;
+                    border-radius: 12px;
+                  "
+                >
+                  <tr>
+                    <td
+                      style="max-width: 600px; margin: 0 auto; line-height: 1.6"
+                    >
+                      <p style="color: #inherit; font-size: 16px; margin: 0">
+                        <strong>Plum Village (title?)</strong><br />
+                        <i
+                          >An experience to consider, gratefully, generously,
+                          shared by Cash</i
+                        ><br />
+                        !image!<br />
+                        Cash's experience:)
+                      </p>
+                    </td>
+                  </tr>
+                </table>
+
+                <! END CASH BOX -- >
+
+                <!-- POEM START -->
+                <table
+                  width="100%"
+                  cellpadding="0"
+                  cellspacing="0"
+                  role="presentation"
+                  style="margin: 30px 0; border-collapse: collapse"
+                >
+                  <tr>
+                    <td align="center" style="padding: 0 12px">
+                      <table
+                        width="100%"
+                        cellpadding="0"
+                        cellspacing="0"
+                        role="presentation"
+                        style="max-width: 600px; border-collapse: collapse"
+                      >
+                        <tr>
+                          <td
+                            style="
+                              font-family: Times, serif;
+                              color: #222222;
+                              -webkit-text-size-adjust: 100%;
+                              text-size-adjust: 100%;
+                            "
+                          >
+                            <div
+                              style="
+                                font-family: Georgia, 'Times New Roman', serif;
+                                font-size: 16px;
+                                line-height: 1.7;
+                                color: inherit;
+                                word-break: normal;
+                              "
+                            >
+                              <strong>Imagination</strong><br />
+                              <i>Poem by Emily A.</i>
+                              <br />
+                              <br />
+                              I went to Hell earlier this week<br />
+                              It was not what I was expecting<br />
+                              It was a blue grey room<br />
+                              Furnished with a couch and a desk<br />
+                              Elevator music playing in the background<br />
+                              They even had a bowl of those mints you get at
+                              banks or at restaurants<br />
+                              <br />
+
+                              <img
+                                src="https://raw.githubusercontent.com/lueeisa/newsforgetterletter/refs/heads/main/rubiks%20cubes.png"
+                                alt="Rubix cube unsolved in various block images with rocks and shells placed on to"
+                                style="
+                                  width: 100%;
+                                  max-width: 100%;
+                                  height: auto;
+                                  display: block;
+                                  margin: 0 auto;
+                                  border: 0;
+                                "
+                              />
+
+                              <br />
+                              Where was the fire?<br />
+                              Where were the melting souls<br />
+                              Sizzling in their own agony?<br />
+                              Where were the sadistic demons<br />
+                              Salivating to torture you for all of eternity<br />
+                              With the very things you had been so attached to
+                              in your sinful life?<br />
+                              <br />
+                              Nowhere to be seen.<br />
+                              All the things I had imagined Hell to be<br />
+                              Were images I made up with my fears<br />
+                              Turns out, the world isn’t as merciless as I
+                              thought<br />
+                              And Hell is just a waiting room<br />
+                              And benevolence is the rule<br />
+                              And there is very little, perhaps nothing, to fear
+                            </div>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+                <!-- POEM END -->
+
+                <!-- WHIMSY START -->
+
+                <img
+                  src="https://raw.githubusercontent.com/lueeisa/newsforgetterletter/0e11fcb5be4d0b4b15b5f1a268824f04fc6574a9/Ways%20to%20add%20Whimsy%20to%20your%20Week.png"
+                  alt="A touch of Whimsy
+                  for your Week by Hannah D., featuring cute images and decorations! This is the alt text because the image is not showing. 
+                  
+                  The world  can be heavy,  chaotic, complicated and yet
+                  painstakingly boring.  At times, life feels so serious and it can
+                  be difficult to remind ourselves to appreciate the simple
+                  beauty that surrounds us. I hope these little practices add a
+                  touch of silly whimsy to your inner landscape.
+                  
+                  Give a name to every squirrel you see today. Maybe one inspires you to create a backstory…
+                  Research the first birdsong you hear when you wake up.  Learn all the cool facts about that bird and share with your friends or coworkers!
+                  Whisper a wish into your morning tea/coffee/beverage before taking a sip. Consider it true."
+                  style="
+                    width: 100%;
+                    max-width: 100%;
+                    height: auto;
+                    display: block;
+                    margin: 0 auto;
+                    border: 0;
+                  "
+                />
+
+                <! -- END WHIMSY -- >
+
+                <! -- MEDITATION SESSIONS - >
+
+                <hr style="margin: 30px 0" />
+
+                <p style="font-size: 13px; color: #777">
+                  Reply “unsubscribe” to stop receiving these emails.
+                </p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
