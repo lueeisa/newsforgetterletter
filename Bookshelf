@@ -1,0 +1,197 @@
+///Sleek
+
+<!-- Sleek Bookshelf Table -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:600px; margin:0 auto; font-family:'Arial', sans-serif; background-color:#f9f8f3; border-radius:12px; padding:16px;">
+  <tr>
+    <!-- Book 1 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book1" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x150.png?text=Book+1" alt="Book 1 Cover" style="width:100px; height:150px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title One</div>
+      </a>
+    </td>
+
+    <!-- Book 2 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book2" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x150.png?text=Book+2" alt="Book 2 Cover" style="width:100px; height:150px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title Two</div>
+      </a>
+    </td>
+
+    <!-- Book 3 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book3" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x150.png?text=Book+3" alt="Book 3 Cover" style="width:100px; height:150px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title Three</div>
+      </a>
+    </td>
+  </tr>
+
+  <!-- Optional second row -->
+  <tr>
+    <!-- Book 4 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book4" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x150.png?text=Book+4" alt="Book 4 Cover" style="width:100px; height:150px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title Four</div>
+      </a>
+    </td>
+
+    <!-- Book 5 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book5" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x150.png?text=Book+5" alt="Book 5 Cover" style="width:100px; height:150px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title Five</div>
+      </a>
+    </td>
+
+    <!-- Book 6 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book6" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x150.png?text=Book+6" alt="Book 6 Cover" style="width:100px; height:150px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title Six</div>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+////////////
+<!-- Cute Bookshelf Table with Optional Images -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:600px; margin:0 auto; font-family:'Arial', sans-serif; background-color:#faf8f2; border-radius:12px; padding:16px;">
+  <!-- Heading -->
+  <tr>
+    <td align="center" style="padding-bottom:16px;">
+      <h2 style="font-size:24px; color:#a67c52; margin:0;">📚 My Tiny Bookshelf</h2>
+    </td>
+  </tr>
+
+  <!-- Books row -->
+  <tr>
+    <!-- Book 1 -->
+    <td align="center" style="padding:8px;">
+      <table cellpadding="8" cellspacing="0" border="0" style="background-color:#fff3e6; border-radius:8px; width:120px;">
+        <tr>
+          <td align="center">
+            <!-- Optional Image -->
+            <img src="https://via.placeholder.com/100x150.png?text=Book+1" alt="Book 1 Cover" style="width:100px; height:150px; display:block; border-radius:4px; margin-bottom:6px;">
+            <div style="font-size:14px; font-weight:bold; color:#4a4a3f; text-align:center;">Book Title One</div>
+          </td>
+        </tr>
+      </table>
+    </td>
+
+    <!-- Book 2 (no image example) -->
+    <td align="center" style="padding:8px;">
+      <table cellpadding="8" cellspacing="0" border="0" style="background-color:#fff3e6; border-radius:8px; width:120px;">
+        <tr>
+          <td align="center">
+            <!-- No image here -->
+            <div style="width:100px; height:150px; background-color:#e6d8c3; border-radius:4px; margin-bottom:6px; display:flex; align-items:center; justify-content:center; color:#a67c52; font-size:12px;">No Image</div>
+            <div style="font-size:14px; font-weight:bold; color:#4a4a3f; text-align:center;">Book Title Two</div>
+          </td>
+        </tr>
+      </table>
+    </td>
+
+    <!-- Book 3 -->
+    <td align="center" style="padding:8px;">
+      <table cellpadding="8" cellspacing="0" border="0" style="background-color:#fff3e6; border-radius:8px; width:120px;">
+        <tr>
+          <td align="center">
+            <img src="https://via.placeholder.com/100x150.png?text=Book+3" alt="Book 3 Cover" style="width:100px; height:150px; display:block; border-radius:4px; margin-bottom:6px;">
+            <div style="font-size:14px; font-weight:bold; color:#4a4a3f; text-align:center;">Book Title Three</div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+///////
+
+<!-- Bookshelf with Hover Effect and Text -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:600px; margin:0 auto; font-family:'Arial', sans-serif; background-color:#faf8f2; border-radius:12px; padding:16px;">
+  <!-- Heading -->
+  <tr>
+    <td align="center" style="padding-bottom:16px;">
+      <h2 style="font-size:24px; color:#a67c52; margin:0;">📚 My Tiny Bookshelf</h2>
+      <p style="font-size:14px; color:#4a4a3f; margin:4px 0 0 0;">A small collection of favorite reads!</p>
+    </td>
+  </tr>
+
+  <!-- Books row -->
+  <tr>
+    <!-- Book 1 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book1" target="_blank" style="text-decoration:none;">
+        <table cellpadding="8" cellspacing="0" border="0" style="background-color:#fff3e6; border-radius:8px; width:120px; transition: transform 0.2s; display:inline-block;">
+          <tr>
+            <td align="center" style="text-align:center;">
+              <img src="https://via.placeholder.com/100x150.png?text=Book+1" alt="Book 1 Cover" style="width:100px; height:150px; display:block; border-radius:4px; margin-bottom:6px;">
+              <div style="font-size:14px; font-weight:bold; color:#4a4a3f;">Book Title One</div>
+              <div style="font-size:12px; color:#7a7a6a; margin-top:2px;">A playful tale of whimsy.</div>
+            </td>
+          </tr>
+        </table>
+      </a>
+    </td>
+
+    <!-- Book 2 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book2" target="_blank" style="text-decoration:none;">
+        <table cellpadding="8" cellspacing="0" border="0" style="background-color:#fff3e6; border-radius:8px; width:120px; transition: transform 0.2s; display:inline-block;">
+          <tr>
+            <td align="center" style="text-align:center;">
+              <!-- Optional image placeholder -->
+              <div style="width:100px; height:150px; background-color:#e6d8c3; border-radius:4px; margin-bottom:6px; display:flex; align-items:center; justify-content:center; color:#a67c52; font-size:12px;">No Image</div>
+              <div style="font-size:14px; font-weight:bold; color:#4a4a3f;">Book Title Two</div>
+              <div style="font-size:12px; color:#7a7a6a; margin-top:2px;">A thoughtful meditation guide.</div>
+            </td>
+          </tr>
+        </table>
+      </a>
+    </td>
+
+    <!-- Book 3 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book3" target="_blank" style="text-decoration:none;">
+        <table cellpadding="8" cellspacing="0" border="0" style="background-color:#fff3e6; border-radius:8px; width:120px; transition: transform 0.2s; display:inline-block;">
+          <tr>
+            <td align="center" style="text-align:center;">
+              <img src="https://via.placeholder.com/100x150.png?text=Book+3" alt="Book 3 Cover" style="width:100px; height:150px; display:block; border-radius:4px; margin-bottom:6px;">
+              <div style="font-size:14px; font-weight:bold; color:#4a4a3f;">Book Title Three</div>
+              <div style="font-size:12px; color:#7a7a6a; margin-top:2px;">A whimsical adventure story.</div>
+            </td>
+          </tr>
+        </table>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Hover Effect CSS -->
+<style>
+  table td table:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  }
+</style>
+
+Cute heading: Centered with emoji and subtitle.
+
+Book boxes: Each has a background, border-radius, optional image, and title + description text.
+
+Optional image: If missing, a colored placeholder shows “No Image.”
+
+Hover effect: Smooth lift (translateY) and subtle shadow.
+
+Clickable: Entire book box links to the URL.
+
+Dark-mode safe: Soft colors, readable contrast.
+
+Mobile-friendly: Stacks naturally on smaller screens.
