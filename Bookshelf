@@ -57,6 +57,137 @@
 </table>
 
 
+////
+sleek with *captions and *optional images
+
+<!-- Sleek Bookshelf Table with Shorter Images and Captions -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:600px; margin:0 auto; font-family:'Arial', sans-serif; background-color:#f9f8f3; border-radius:12px; padding:16px;">
+  <!-- First Row -->
+  <tr>
+    <!-- Book 1 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book1" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x120.png?text=Book+1" alt="Book 1 Cover" style="width:100px; height:120px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title One</div>
+        <div style="font-size:12px; color:#7a7a6a; margin-top:2px;">A whimsical adventure story.</div>
+      </a>
+    </td>
+
+    <!-- Book 2 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book2" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x120.png?text=Book+2" alt="Book 2 Cover" style="width:100px; height:120px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title Two</div>
+        <div style="font-size:12px; color:#7a7a6a; margin-top:2px;">A thoughtful meditation guide.</div>
+      </a>
+    </td>
+
+    <!-- Book 3 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book3" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x120.png?text=Book+3" alt="Book 3 Cover" style="width:100px; height:120px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title Three</div>
+        <div style="font-size:12px; color:#7a7a6a; margin-top:2px;">A playful guide to creativity.</div>
+      </a>
+    </td>
+  </tr>
+
+  <!-- Optional Second Row -->
+  <tr>
+    <!-- Book 4 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book4" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x120.png?text=Book+4" alt="Book 4 Cover" style="width:100px; height:120px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title Four</div>
+        <div style="font-size:12px; color:#7a7a6a; margin-top:2px;">A cozy tale for quiet evenings.</div>
+      </a>
+    </td>
+
+    <!-- Book 5 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book5" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x120.png?text=Book+5" alt="Book 5 Cover" style="width:100px; height:120px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title Five</div>
+        <div style="font-size:12px; color:#7a7a6a; margin-top:2px;">Inspiring stories for the soul.</div>
+      </a>
+    </td>
+
+    <!-- Book 6 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book6" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x120.png?text=Book+6" alt="Book 6 Cover" style="width:100px; height:120px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title Six</div>
+        <div style="font-size:12px; color:#7a7a6a; margin-top:2px;">A fun journey for curious minds.</div>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+//////captions + shorter images 
+
+<!-- Sleek Bookshelf Table with Shorter Images and Captions -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:600px; margin:0 auto; font-family:'Arial', sans-serif; background-color:#f9f8f3; border-radius:12px; padding:16px;">
+  <!-- First Row -->
+  <tr>
+    <!-- Book 1 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book1" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x120.png?text=Book+1" alt="Book 1 Cover" style="width:100px; height:120px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title One</div>
+        <div style="font-size:12px; color:#7a7a6a; margin-top:2px;">A whimsical adventure story.</div>
+      </a>
+    </td>
+
+    <!-- Book 2 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book2" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x120.png?text=Book+2" alt="Book 2 Cover" style="width:100px; height:120px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title Two</div>
+        <div style="font-size:12px; color:#7a7a6a; margin-top:2px;">A thoughtful meditation guide.</div>
+      </a>
+    </td>
+
+    <!-- Book 3 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book3" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x120.png?text=Book+3" alt="Book 3 Cover" style="width:100px; height:120px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title Three</div>
+        <div style="font-size:12px; color:#7a7a6a; margin-top:2px;">A playful guide to creativity.</div>
+      </a>
+    </td>
+  </tr>
+
+  <!-- Optional Second Row -->
+  <tr>
+    <!-- Book 4 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book4" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x120.png?text=Book+4" alt="Book 4 Cover" style="width:100px; height:120px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title Four</div>
+        <div style="font-size:12px; color:#7a7a6a; margin-top:2px;">A cozy tale for quiet evenings.</div>
+      </a>
+    </td>
+
+    <!-- Book 5 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book5" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x120.png?text=Book+5" alt="Book 5 Cover" style="width:100px; height:120px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title Five</div>
+        <div style="font-size:12px; color:#7a7a6a; margin-top:2px;">Inspiring stories for the soul.</div>
+      </a>
+    </td>
+
+    <!-- Book 6 -->
+    <td align="center" style="padding:8px;">
+      <a href="https://example.com/book6" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+        <img src="https://via.placeholder.com/100x120.png?text=Book+6" alt="Book 6 Cover" style="width:100px; height:120px; display:block; border-radius:4px; margin-bottom:6px;">
+        <div style="font-size:14px; font-weight:bold;">Book Title Six</div>
+        <div style="font-size:12px; color:#7a7a6a; margin-top:2px;">A fun journey for curious minds.</div>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
