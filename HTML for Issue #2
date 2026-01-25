@@ -178,6 +178,185 @@
 
                 <! -- END WHIMSY -- >
 
+
+                
+                
+
+                <! -- Little free library of reccomendations -- >
+                <!-- Sleek Bookshelf Table -->
+                <table
+                  width="100%"
+                  cellpadding="0"
+                  cellspacing="0"
+                  border="0"
+                  style="
+                    max-width: 600px;
+                    margin: 0 auto;
+                    font-family: 'Palentino', sans-serif;
+                    background-color: #f9f8f3;
+                    border-radius: 12px;
+                    padding: 16px;
+                  "
+                >
+                  <tr>
+                    <br />
+                    <h2>Little free library of reccomendations</h>
+                    
+                    <!-- Book 1 -->
+                    <td align="center" style="padding: 8px">
+                      <a
+                        href="https://youtu.be/rVoKSsxxTYU?si=q2R9NjtMUPxxfb-x"
+                        target="_blank"
+                        style="text-decoration: none; color: #4a4a3f"
+                      >
+                      <img
+                          src="https://raw.githubusercontent.com/lueeisa/newsforgetterletter/024761df63331d1e90dabd9ac40a5474970a5fbd/Screenshot%202026-01-24%2011.42.57%20PM.png"
+                          alt="Image of JD"
+                          style="
+                            width: 100px;
+                            height: 120px;
+                            display: block;
+                            border-radius: 4px;
+                            margin-bottom: 6px;
+                          "
+                          />
+                        <div style="font-size: 14px; font-weight: bold">
+                          Aradhana Q&A 
+                          w JD
+                        </div>
+                        <div style="font-size:12px; width: 120px; color:#7a7a6a; margin-top:2px;">What do you do when someone important dies? </div>
+                      </a>
+                    </td>
+
+                    <!-- Book 2 -->
+                    <td align="center" style="padding: 8px">
+                      <a
+                        href="https://www.visiblemantra.org/amitabha.html"
+                        target="_blank"
+                        style="text-decoration: none; color: #4a4a3f"
+                      >
+                        <img
+                          src="https://www.visiblemantra.org/figures/amitabha.gif"
+                          alt="Auspicious meditating on lotus flower"
+                          style="
+                            width: 100px;
+                            height: 120px;
+                            display: block;
+                            border-radius: 4px;
+                            margin-bottom: 6px;
+                          "
+                        />
+                        <div style="font-size: 14px; font-weight: bold">
+                          Visible Mantra~Amitabha
+                        </div>
+                        <div style="font-size:12px; width: 120px; color:#7a7a6a; margin-top:2px;">For my linguists and humanists (<3 Luisa) </div>
+                      </a>
+                    </td>
+
+                    <!-- Book 3 -->
+                    <td align="center" style="padding: 8px">
+                      <a
+                        href="https://ancientinfinityorchestra.bandcamp.com/album/its-always-about-love"
+                        target="_blank"
+                        style="text-decoration: none; color: #4a4a3f"
+                      >
+                        <img
+                          src="https://f4.bcbits.com/img/a2656801600_16.jpg"
+                          alt="Pretty album cover"
+                          style="
+                            width: 120px;
+                            height: 130px;
+                            display: block;
+                            border-radius: 4px;
+                            margin-bottom: 6px;
+                          "
+                        />
+                        <div style="font-size: 14px; font-weight: bold">
+                          It's Always About Love_AIO
+                        </div>
+                        <div style="font-size:12px; width: 120px; color:#7a7a6a; margin-top:2px;">What's a library without music??</div>
+                        </a>
+                    </td>
+                  </tr>
+
+                  <!-- Optional second row -->
+                  <tr>
+                    <!-- Book 4 -->
+                    <td align="center" style="padding: 8px">
+                      <a
+                        href="https://example.com/book4"
+                        target="_blank"
+                        style="text-decoration: none; color: #4a4a3f"
+                      >
+                        <img
+                          src="https://via.placeholder.com/100x150.png?text=Book+4"
+                          alt="Book 4 Cover"
+                          style="
+                            width: 100px;
+                            height: 150px;
+                            display: block;
+                            border-radius: 4px;
+                            margin-bottom: 6px;
+                          "
+                        />
+                        <div style="font-size: 14px; font-weight: bold">
+                          Book Title Four
+                        </div>
+                      </a>
+                    </td>
+
+                    <!-- Book 5 -->
+                    <td align="center" style="padding: 8px">
+                      <a
+                        href="https://example.com/book5"
+                        target="_blank"
+                        style="text-decoration: none; color: #4a4a3f"
+                      >
+                        <img
+                          src="https://via.placeholder.com/100x150.png?text=Book+5"
+                          alt="Book 5 Cover"
+                          style="
+                            width: 100px;
+                            height: 150px;
+                            display: block;
+                            border-radius: 4px;
+                            margin-bottom: 6px;
+                          "
+                        />
+                        <div style="font-size: 14px; font-weight: bold">
+                          Book Title Five
+                        </div>
+                      </a>
+                    </td>
+
+                    <!-- Book 6 -->
+                    <td align="center" style="padding: 8px">
+                      <a
+                        href="https://example.com/book6"
+                        target="_blank"
+                        style="text-decoration: none; color: #4a4a3f"
+                      >
+                        <img
+                          src="https://via.placeholder.com/100x150.png?text=Book+6"
+                          alt="Book 6 Cover"
+                          style="
+                            width: 100px;
+                            height: 150px;
+                            display: block;
+                            border-radius: 4px;
+                            margin-bottom: 6px;
+                          "
+                        />
+                        <div style="font-size: 14px; font-weight: bold">
+                          Book Title Six
+                        </div>
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+
+                <! END little library >
+
                 <! -- MEDITATION SESSIONS - >
 
                 <hr style="margin: 30px 0" />
