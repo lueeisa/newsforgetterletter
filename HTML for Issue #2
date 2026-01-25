@@ -24,7 +24,7 @@
               <td>
                 <h1 style="color: inherit" <h1>Tomorrow is Tuesday</h1>
                 <p style="font-size: 16px; line-height: 1.5; color: #151516">
-                  Welcome. Enjoy a mix original content from friends, a
+                  Welcome back, it's almost Tuesday. Enjoy a mix original content from friends, a
                   bookshelf of various reccomendations, nonlocal/local &
                   imaginary events, and, as always, a weekly meditation class.
                 </p>
@@ -293,7 +293,7 @@
                           alt="Book 4 Cover"
                           style="
                             width: 100px;
-                            height: 150px;
+                            height: 120px;
                             display: block;
                             border-radius: 4px;
                             margin-bottom: 6px;
