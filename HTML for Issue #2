@@ -22,46 +22,250 @@
           >
             <tr>
               <td>
-                <h1 style="color: inherit" <h1>Tomorrow is Tuesday</h1>
-                <p style="font-size: 16px; line-height: 1.5; color: #151516">
-                  Welcome back, it's almost Tuesday. Enjoy a mix original content from friends, a
-                  bookshelf of various reccomendations, nonlocal/local &
+                <h1 style="color: inherit">Tomorrow is Tuesday</h1>
+                <p style="font-size: 16px; line-height: 1.5; color: #151516;">
+                  Welcome back, it's almost Tuesday. Enjoy a mix of original content from friends, a
+                  bookshelf of various recommendations, nonlocal/local &
                   imaginary events, and, as always, a weekly meditation class.
                 </p>
 
-                <! -- CASH BOX -- >
-
-                <table
+                <!-- DARSHAN BOX -->
+                <table 
                   width="100%"
                   cellpadding="0"
                   cellspacing="0"
                   border="0"
                   style="
                     background-color: #eeeeee;
-                    color: #inherit;
+                    color: inherit;
                     font-family: 'Palentino', serif;
                     padding: 20px;
-                    border-radius: 12px;
-                  "
-                >
+                    border-radius: 0px;
+                  ">
                   <tr>
-                    <td
-                      style="max-width: 600px; margin: 0 auto; line-height: 1.6"
-                    >
-                      <p style="color: #inherit; font-size: 16px; margin: 0">
-                        <strong>Plum Village (title?)</strong><br />
-                        <i
-                          >An experience to consider, gratefully, generously,
-                          shared by Cash</i
-                        ><br />
-                        !image!<br />
-                        Cash's experience:)
+                    <td>
+                      <img
+                        src="https://www.anandamayi.org/photos/pics/033.jpg"
+                        alt="Image of Ma"
+                        style="
+                          width: 100%;
+                          max-width: 200px;
+                          height: auto;
+                          display: block;
+                          margin: 0;
+                          border: 0;
+                        "
+                      />
+                      <p style="font-size: 13px; line-height: 1; color: #151516;">
+                        <i>Sri Anandamayi Ma, "Bliss Mother." ~1926</i>
                       </p>
                     </td>
                   </tr>
                 </table>
+                <!-- END DARSHAN BOX -->
 
-                <! END CASH BOX -- >
+                <!-- Divider -->
+                <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
+                  <tr>
+                    <td height="1" style="background-color:#b78bd6; line-height:1px; font-size:1px;">&nbsp;</td>
+                  </tr>
+                </table>
+
+                <!-- WHIMSY START -->
+                <table
+                  width="100%"
+                  cellpadding="0"
+                  cellspacing="0"
+                  role="presentation"
+                  style="margin: 30px 0; border-collapse: collapse"
+                >
+                  <tr>
+                    <td align="center" style="padding: 0 12px">
+                      <table
+                        width="100%"
+                        cellpadding="0"
+                        cellspacing="0"
+                        role="presentation"
+                        style="max-width: 600px; border-collapse: collapse"
+                      >
+                        <tr>
+                          <td style="font-family: Times, serif; color: #222222;">
+                            <div
+                              style="
+                                font-family: Georgia, 'Times New Roman', serif;
+                                font-size: 16px;
+                                text-align: center;
+                                line-height: 1.7;
+                                color: inherit;
+                              "
+                            >
+                              <strong>Whimsical Advice</strong><br />
+                              <i>From Portland, OR</i><br />
+                            </div>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+
+                <table
+                  width="100%"
+                  cellpadding="0"
+                  cellspacing="0"
+                  border="1"
+                  style="
+                    background-color: #f9edfc;
+                    color: inherit;
+                    font-family: 'Georgia', serif;
+                    padding: 2px;
+                    border-radius: 3px;
+                  "
+                >
+                  <tr>
+                    <td style="max-width: 600px; margin: 2 auto; line-height: 1.6">
+                      <img
+                        src="https://raw.githubusercontent.com/lueeisa/newsforgetterletter/0e11fcb5be4d0b4b15b5f1a268824f04fc6574a9/Ways%20to%20add%20Whimsy%20to%20your%20Week.png"
+                        alt="A touch of Whimsy for your Week"
+                        style="
+                          width: 100%;
+                          max-width: 600px;
+                          height: auto;
+                          display: block;
+                          margin: 0 auto;
+                          border: 0;
+                        "
+                      />
+                    </td>
+                  </tr>
+                </table>
+                <p style="max-width: 600px; font-size:14px; color:inherit; text-align:right; margin-top:18px; font-style:italic;">
+                  — Hannah D.
+                </p>
+                <!-- END WHIMSY -->
+
+                <!-- NZ START -->
+                
+<table
+  width="100%"
+  cellpadding="0"
+  cellspacing="0"
+  border="0"
+  style="
+    background-color: #ffffff;
+    border: 2px solid #90ee90; /* light green outline */
+    border-radius: 6px;
+    padding: 15px;
+    margin: 20px 0;
+    font-family: Arial, sans-serif; /* clean font */
+    font-size: 14px; /* slightly smaller but readable */
+    line-height: 1.6;
+    color: #151516;
+  "
+>
+  <tr>
+    <td><p><strong>Another Trip</strong></p>
+
+  <p>
+    Again I drive away, from my homemade lemon meringue pie, the fat cat named Ghost who I affectionately referred to as Cloud, and the remnants of a controlled burn I helped contain—so as not spread to the surrounding bush. In New Zealand, I’ve been volunteering on farms through Worldwide Opportunities on Organic Farms (WWOOF) interspersed between travel and work. This may have been my ninth farm? <em>I’m losing track.</em>
+  </p>
+
+  <p>
+    This most recent WWOOF host told me he had been cursed, saw a UFO, saw a ghost in his house, had many near death experiences, and was struck by lightening before. I’m not religious but I gave him my Image of Divine Mercy to help with his curse, since he said it was Christian-related. Nothing he revealed put me off the idea of staying there, more so I remember noting that I ought to write a fiction story about him.
+  </p>
+
+  <p>
+    Already I sense that memories of this eccentric WWOOF host are fleeting while they mix with my colorful year. I drive North, to a place I’ve been to before. The idea of being on familiar land sits in my mind’s eye like a fresh baked cookie in an oven, while memories of being on the road flood my mind like radio chatter. The hitchhikers. <em>Where are they now?</em> Susi. <em>I hope she got home safe.</em> My farm hosts prior. <em>I hope they are able to keep the farm. With her injury and all.</em>
+  </p>
+
+  <p><em>
+    My year was full of meetings and goodbyes. Flirting, loneliness, humor, intensity, stupidity, excitement, boredom, rapidity but never superficiality. Never putting on a persona or pretending. Imperfect human connection. Pure experience. That’s what it felt like, at least.
+  </em></p>
+
+  <p>
+    I am on the road again, but my destination would become my home for three weeks. I am heading to Mana, a retreat center on the Coromandel, for my second stint of volunteering. Though I had been to the location eight months prior, there would be an entirely new batch of volunteers to meet, some who had been volunteering with each other for weeks already. The idea of meeting these new faces all at once made my gut churn.
+  </p>
+
+  <p><em>
+    Social anxiety is not something you ever get rid of, I think. Even if you prove to everyone in the world you beat it, and are the most popular, charismatic, loved person on the planet, social anxiety would be sitting on your shoulder like an old friend. I don’t believe people ever fully rid themselves of their neuroses.
+  </em></p>
+
+  <p>
+    I pull over on the side of the road, to the last beach before the retreat center, when driving in from the West. It is an inlet hidden from the road, with calm waters that sparkle in the sun. The surrounding hills are bright green and dotted with cows. They are close enough to be considered part of the immediate landscape. The rocks make me believe mermaids sunbathe here.
+  </p>
+
+  <p>
+    I change into my bathing suit without a care in the world, since nobody can see me here, and jump in. The cool water flows around my body and I felt light. Though, the feeling in my chest tightens when I think about meeting the new group. <em>It’s only three weeks</em>, I assure myself.
+  </p>
+
+  <p>
+    I get out, walk to my towel, and change back into my clothes. All of the sudden, I spot a group of six walking down the beach. I’ve never seen a group of people here before.
+  </p>
+
+  <p>
+    My heart is racing now. <em>Is my face red?</em> “Gab? Is that you?”
+  </p>
+
+  <p>
+    “It’s Sarina!”<br>
+    “Sarina!” he runs up and gives me a hug.
+  </p>
+
+  <p>
+    It’s Mana’s kiwi chef followed by the group of volunteers I was supposed to meet at Mana. He and I exchange words I can’t remember. The rest of the group walks up and I can feel eyes on me. <em>It’s strange feeling people’s gaze.</em>
+  </p>
+
+  <p>
+    We get in the water, and I mostly talk to Gab, because he is familiar and we have stuff to catch up on. He calls me Sabrina and I correct him. The volunteers clown him for “never” remembering their names. One volunteer played into it so much that he temporarily changed his name to “Gregorious”.
+  </p>
+
+  <p>
+    We swim farther into the sea and a friendly girl whose name I don’t yet know starts chatting to me. She is earnest, open, and curious. <em>I hope we’ll be friends.</em>
+  </p>
+
+  <p style="text-align:center; margin:10px 0;">~</p>
+
+  <p>
+    I’m outside the sauna with three girls who may have stolen my heart. <em>In three weeks?</em> If I didn’t experience it, I wouldn’t have believed it possible.
+  </p>
+
+  <p>
+    We plan to meet here again. “A Mana reunion!”
+  </p>
+
+  <p>
+    Though, meeting in the same place again seems like a miracle away. I want to fall in love with the whole world.
+  </p>
+
+  <p style="text-align:center; margin:10px 0;">~</p>
+
+  <p><strong>A confession:</strong></p>
+
+  <p>
+    I dreamt about you. The other night. You and I were cuddling. Your grandpa appeared. He said to you, “This one here is a special connection.” Why was I shown this and not you? Should I have told you? Did you also have a dream you never told me about? I love you like a sister, but I know you know and feel the same. So maybe there’s nothing to say. We’ll feel it, together and apart.
+  </p>
+      
+<img
+                        src="https://raw.githubusercontent.com/lueeisa/newsforgetterletter/refs/heads/main/NZ%20Photo.png"
+                        alt="New Zealand beach"
+                        style="
+                          width: 100%;
+                          max-width: 600px;
+                          height: auto;
+                          display: block;
+                          margin: 0 auto;
+                          border: 0;
+                        "
+                      />
+      </p>
+    </td>
+  </tr>
+</table>
+<p style="max-width: 600px; font-size:14px; color:inherit; text-align:right; margin-top:18px; font-style:italic;">
+                  — Sarina C.
+                </p>
+
+
 
                 <!-- POEM START -->
                 <table
@@ -81,36 +285,24 @@
                         style="max-width: 600px; border-collapse: collapse"
                       >
                         <tr>
-                          <td
-                            style="
-                              font-family: Times, serif;
-                              color: #222222;
-                              -webkit-text-size-adjust: 100%;
-                              text-size-adjust: 100%;
-                            "
-                          >
+                          <td style="font-family: Times, serif; color: #222222;">
                             <div
                               style="
                                 font-family: Georgia, 'Times New Roman', serif;
                                 font-size: 16px;
                                 line-height: 1.7;
                                 color: inherit;
-                                word-break: normal;
                               "
                             >
                               <strong>Imagination</strong><br />
-                              <i>Poem by Emily A.</i>
-                              <br />
-                              <br />
+                              <i>Poem by Emily A.</i><br /><br />
                               I went to Hell earlier this week<br />
                               It was not what I was expecting<br />
                               It was a blue grey room<br />
                               Furnished with a couch and a desk<br />
                               Elevator music playing in the background<br />
                               They even had a bowl of those mints you get at
-                              banks or at restaurants<br />
-                              <br />
-
+                              banks or at restaurants<br /><br />
                               <img
                                 src="https://raw.githubusercontent.com/lueeisa/newsforgetterletter/refs/heads/main/rubiks%20cubes.png"
                                 alt="Rubix cube unsolved in various block images with rocks and shells placed on to"
@@ -122,17 +314,14 @@
                                   margin: 0 auto;
                                   border: 0;
                                 "
-                              />
-
-                              <br />
+                              /><br />
                               Where was the fire?<br />
                               Where were the melting souls<br />
                               Sizzling in their own agony?<br />
                               Where were the sadistic demons<br />
                               Salivating to torture you for all of eternity<br />
                               With the very things you had been so attached to
-                              in your sinful life?<br />
-                              <br />
+                              in your sinful life?<br /><br />
                               Nowhere to be seen.<br />
                               All the things I had imagined Hell to be<br />
                               Were images I made up with my fears<br />
@@ -150,220 +339,103 @@
                 </table>
                 <!-- POEM END -->
 
-                <!-- WHIMSY START -->
-
-                <img
-                  src="https://raw.githubusercontent.com/lueeisa/newsforgetterletter/0e11fcb5be4d0b4b15b5f1a268824f04fc6574a9/Ways%20to%20add%20Whimsy%20to%20your%20Week.png"
-                  alt="A touch of Whimsy
-                  for your Week by Hannah D., featuring cute images and decorations! This is the alt text because the image is not showing. 
-                  
-                  The world  can be heavy,  chaotic, complicated and yet
-                  painstakingly boring.  At times, life feels so serious and it can
-                  be difficult to remind ourselves to appreciate the simple
-                  beauty that surrounds us. I hope these little practices add a
-                  touch of silly whimsy to your inner landscape.
-                  
-                  Give a name to every squirrel you see today. Maybe one inspires you to create a backstory…
-                  Research the first birdsong you hear when you wake up.  Learn all the cool facts about that bird and share with your friends or coworkers!
-                  Whisper a wish into your morning tea/coffee/beverage before taking a sip. Consider it true."
-                  style="
-                    width: 100%;
-                    max-width: 100%;
-                    height: auto;
-                    display: block;
-                    margin: 0 auto;
-                    border: 0;
-                  "
-                />
-
-                <! -- END WHIMSY -- >
-
-
-                
-                
-
-                <! -- Little free library of reccomendations -- >
-                <!-- Sleek Bookshelf Table -->
-                <table
-                  width="100%"
-                  cellpadding="0"
-                  cellspacing="0"
-                  border="0"
-                  style="
-                    max-width: 600px;
-                    margin: 0 auto;
-                    font-family: 'Palentino', sans-serif;
-                    background-color: #f9f8f3;
-                    border-radius: 12px;
-                    padding: 16px;
-                  "
-                >
+                <!-- LITTLE FREE LIBRARY -->
+                <h2 style="margin:30px 0 16px 0; font-weight:bold;">Little Free Library of Recommendations</h2>
+                <table width="100%" cellpadding="0" cellspacing="0" role="presentation" style="background:#f9f8f3; padding:16px; border-collapse: collapse;">
                   <tr>
-                    <br />
-                    <h2>Little free library of reccomendations</h>
-                    
-                    <!-- Book 1 -->
-                    <td align="center" style="padding: 8px">
-                      <a
-                        href="https://youtu.be/rVoKSsxxTYU?si=q2R9NjtMUPxxfb-x"
-                        target="_blank"
-                        style="text-decoration: none; color: #4a4a3f"
-                      >
-                      <img
-                          src="https://raw.githubusercontent.com/lueeisa/newsforgetterletter/024761df63331d1e90dabd9ac40a5474970a5fbd/Screenshot%202026-01-24%2011.42.57%20PM.png"
-                          alt="Image of JD"
-                          style="
-                            width: 100px;
-                            height: 120px;
-                            display: block;
-                            border-radius: 4px;
-                            margin-bottom: 6px;
-                          "
-                          />
-                        <div style="font-size: 14px; font-weight: bold">
-                          Aradhana Q&A 
-                          w JD
-                        </div>
-                        <div style="font-size:12px; width: 120px; color:#7a7a6a; margin-top:2px;">What do you do when someone important dies? </div>
+                    <td align="center" style="padding:8px;">
+                      <a href="https://youtu.be/rVoKSsxxTYU?si=q2R9NjtMUPxxfb-x" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+                        <img src="https://raw.githubusercontent.com/lueeisa/newsforgetterletter/024761df63331d1e90dabd9ac40a5474970a5fbd/Screenshot%202026-01-24%2011.42.57%20PM.png"
+                          style="width:100px; height:120px; display:block; border-radius:4px;" />
+                        <div style="font-weight:bold;">Aradhana Q&A</div>
+                        <div style="font-size:12px;">What do you do when someone important dies? (-JD)</div>
                       </a>
                     </td>
-
-                    <!-- Book 2 -->
-                    <td align="center" style="padding: 8px">
-                      <a
-                        href="https://www.visiblemantra.org/amitabha.html"
-                        target="_blank"
-                        style="text-decoration: none; color: #4a4a3f"
-                      >
-                        <img
-                          src="https://www.visiblemantra.org/figures/amitabha.gif"
-                          alt="Auspicious meditating on lotus flower"
-                          style="
-                            width: 100px;
-                            height: 120px;
-                            display: block;
-                            border-radius: 4px;
-                            margin-bottom: 6px;
-                          "
-                        />
-                        <div style="font-size: 14px; font-weight: bold">
-                          Visible Mantra~Amitabha
-                        </div>
-                        <div style="font-size:12px; width: 120px; color:#7a7a6a; margin-top:2px;">For my linguists and humanists (<3 Luisa) </div>
+                    <td align="center" style="padding:8px;">
+                      <a href="https://www.visiblemantra.org/amitabha.html" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+                        <img src="https://www.visiblemantra.org/figures/amitabha.gif"
+                          style="width:100px; height:120px; display:block; border-radius:4px;" />
+                        <div style="font-weight:bold;">Visible Mantra~Amitabha</div>
+                        <div style="font-size:12px;">For my linguists and humanists (&lt;3 Luisa)</div>
                       </a>
                     </td>
-
-                    <!-- Book 3 -->
-                    <td align="center" style="padding: 8px">
-                      <a
-                        href="https://ancientinfinityorchestra.bandcamp.com/album/its-always-about-love"
-                        target="_blank"
-                        style="text-decoration: none; color: #4a4a3f"
-                      >
-                        <img
-                          src="https://f4.bcbits.com/img/a2656801600_16.jpg"
-                          alt="Pretty album cover"
-                          style="
-                            width: 120px;
-                            height: 130px;
-                            display: block;
-                            border-radius: 4px;
-                            margin-bottom: 6px;
-                          "
-                        />
-                        <div style="font-size: 14px; font-weight: bold">
-                          It's Always About Love_AIO
-                        </div>
-                        <div style="font-size:12px; width: 120px; color:#7a7a6a; margin-top:2px;">What's a library without music??</div>
-                        </a>
+                    <td align="center" style="padding:8px;">
+                      <a href="https://ancientinfinityorchestra.bandcamp.com/album/its-always-about-love" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+                        <img src="https://f4.bcbits.com/img/a2656801600_16.jpg"
+                          style="width:120px; height:130px; display:block; border-radius:4px;" />
+                        <div style="font-weight:bold;">It's Always About Love_AIO</div>
+                        <div style="font-size:12px;">What's a library without music??</div>
+                      </a>
                     </td>
                   </tr>
-
-                  <!-- Optional second row -->
                   <tr>
-                    <!-- Book 4 -->
-                    <td align="center" style="padding: 8px">
-                      <a
-                        href="https://example.com/book4"
-                        target="_blank"
-                        style="text-decoration: none; color: #4a4a3f"
-                      >
-                        <img
-                          src="https://via.placeholder.com/100x150.png?text=Book+4"
-                          alt="Book 4 Cover"
-                          style="
-                            width: 100px;
-                            height: 120px;
-                            display: block;
-                            border-radius: 4px;
-                            margin-bottom: 6px;
-                          "
-                        />
-                        <div style="font-size: 14px; font-weight: bold">
-                          Book Title Four
-                        </div>
+                    <td align="center" style="padding:8px;">
+                      <a href="https://www.ebay.com/itm/336238018366" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+                        <img src="https://dancingelephant.shop/cdn/shop/files/F5D4E7D0-2340-454E-AA13-89E25E764963.jpg?v=1709410115&width=1206"
+                          style="width:100px; height:120px; display:block; border-radius:4px;" />
+                        <div style="font-weight:bold;">The Yellow Book</div>
+                        <div style="font-size:12px;">Quotes from Baba Hari Dass (-LR)</div>
                       </a>
                     </td>
-
-                    <!-- Book 5 -->
-                    <td align="center" style="padding: 8px">
-                      <a
-                        href="https://example.com/book5"
-                        target="_blank"
-                        style="text-decoration: none; color: #4a4a3f"
-                      >
-                        <img
-                          src="https://via.placeholder.com/100x150.png?text=Book+5"
-                          alt="Book 5 Cover"
-                          style="
-                            width: 100px;
-                            height: 150px;
-                            display: block;
-                            border-radius: 4px;
-                            margin-bottom: 6px;
-                          "
-                        />
-                        <div style="font-size: 14px; font-weight: bold">
-                          Book Title Five
-                        </div>
+                    <td align="center" style="padding:8px;">
+                      <a href="https://example.com/book5" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+                        <img src="https://via.placeholder.com/100x150.png?text=Book+5"
+                          style="width:100px; height:120px; display:block; border-radius:4px;" />
+                        <div style="font-weight:bold;">Book Title Five</div>
+                        <div style="font-size:12px;">For my linguists and humanists (&lt;3 Luisa)</div>
                       </a>
                     </td>
-
-                    <!-- Book 6 -->
-                    <td align="center" style="padding: 8px">
-                      <a
-                        href="https://example.com/book6"
-                        target="_blank"
-                        style="text-decoration: none; color: #4a4a3f"
-                      >
-                        <img
-                          src="https://via.placeholder.com/100x150.png?text=Book+6"
-                          alt="Book 6 Cover"
-                          style="
-                            width: 100px;
-                            height: 150px;
-                            display: block;
-                            border-radius: 4px;
-                            margin-bottom: 6px;
-                          "
-                        />
-                        <div style="font-size: 14px; font-weight: bold">
-                          Book Title Six
-                        </div>
+                    <td align="center" style="padding:8px;">
+                      <a href="https://example.com/book6" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+                        <img src="https://via.placeholder.com/100x150.png?text=Book+6"
+                          style="width:100px; height:150px; display:block; border-radius:4px;" />
+                        <div style="font-weight:bold;">Book Title Six</div>
+                        <div style="font-size:12px;">For my linguists and humanists (&lt;3 Luisa)</div>
                       </a>
                     </td>
                   </tr>
                 </table>
+                <!-- END LITTLE FREE LIBRARY -->
 
-                <! END little library >
+                <!-- MEDITATION SESSIONS -->
+                <table width="100%" cellpadding="0" cellspacing="0" style="margin:24px 0;">
+                  <tr>
+                    <td style="font-family: Georgia, serif; color:#333;">
+                      <div style="font-size:18px; font-weight:bold; margin-bottom:10px;">
+                        Meditation Sessions
+                      </div>
 
-                <! -- MEDITATION SESSIONS - >
+                      <div style="font-size:13px; line-height:1.6; margin-bottom:14px;">
+                        <a href="https://lettucemeditate.blogspot.com/" style="color:#429373; text-decoration:underline;">lettucemeditate.blogspot.com</a> <br />These are very beginner friendly and supportive. The main purpose is to support your establishing a regular practice. The benefits of daily meditation are too tremendous to even be spoken, yet anecdotal and scientific evidence abound.
+                      </div>
+                      <div style="font-size:16px; line-height:1.6; margin-bottom:10px;">
+                        <b>Sundays</b> from <a href="https://lettucemeditate.blogspot.com/2025/08/sunday-august-10th-115pm-pst-click-here.html" style="color:#429373; text-decoration:underline;">1:00-1:30 PM</a> PST
+                      </div>
+                      <div style="font-size:11px; color:#555b; line-height:1; margin-bottom:10px;">
+                        Interested but can't make it? A new 30-min class time is coming soon, so enter your availability
+                        <a href="https://www.when2meet.com/?34459927-99tGT" style="color:#429373; text-decoration:underline;">here!</a>
+                      </div>
+                      <div style="font-size: 16px; line-height:1.6; margin-bottom:10px;">
+                      </div>
+                      <div style="font-family: Arial, sans-serif; font-size: 16px; padding-left:14px; color:#555a;">
+                        <div style="margin-bottom:6px;">
+                          “Love everyone, including yourself. That is real sadhana (practice).”
+                        </div>
+                        <div style="text-align:right;">
+                          — Baba Hari Dass
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+                <!-- MEDITATION SESSIONS END -->
 
                 <hr style="margin: 30px 0" />
 
                 <p style="font-size: 13px; color: #777">
                   Reply “unsubscribe” to stop receiving these emails.
                 </p>
+
               </td>
             </tr>
           </table>
