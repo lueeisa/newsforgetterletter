@@ -26,7 +26,7 @@
                 <p style="font-size: 16px; line-height: 1.5; color: #151516;">
                   Welcome back, it's almost Tuesday. Enjoy a mix of original content from friends, a
                   bookshelf of various recommendations, nonlocal/local &
-                  imaginary events, and, as always, a weekly meditation class.
+                  imaginary events, and, as always, a <a href="https://lettucemeditate.blogspot.com" style="color:#838383; text-decoration:none">weekly meditation class.</a>
                 </p>
 
                 <!-- DARSHAN BOX -->
@@ -302,19 +302,8 @@
                               Furnished with a couch and a desk<br />
                               Elevator music playing in the background<br />
                               They even had a bowl of those mints you get at
-                              banks or at restaurants<br /><br />
-                              <img
-                                src="https://raw.githubusercontent.com/lueeisa/newsforgetterletter/refs/heads/main/rubiks%20cubes.png"
-                                alt="Rubix cube unsolved in various block images with rocks and shells placed on to"
-                                style="
-                                  width: 100%;
-                                  max-width: 100%;
-                                  height: auto;
-                                  display: block;
-                                  margin: 0 auto;
-                                  border: 0;
-                                "
-                              /><br />
+                              banks or at restaurants<br />
+                              <br />
                               Where was the fire?<br />
                               Where were the melting souls<br />
                               Sizzling in their own agony?<br />
@@ -331,6 +320,21 @@
                               And benevolence is the rule<br />
                               And there is very little, perhaps nothing, to fear
                             </div>
+                            <br />
+                              <img
+                                src="https://raw.githubusercontent.com/lueeisa/newsforgetterletter/refs/heads/main/rubiks%20cubes.png"
+                                alt="Rubix cube unsolved in various block images with rocks and shells placed on to"
+                                style="
+                                  width: 100%;
+                                  max-width: 100%;
+                                  height: auto;
+                                  display: block;
+                                  margin: 0 auto;
+                                  border: 0;
+                                "/>
+                            <p style="max-width: 600px; font-size:14px; color:inherit; text-align:right; margin-top:18px; font-style:italic;">
+                  — Emily A.
+                </p>
                           </td>
                         </tr>
                       </table>
@@ -348,59 +352,148 @@
                         <img src="https://raw.githubusercontent.com/lueeisa/newsforgetterletter/024761df63331d1e90dabd9ac40a5474970a5fbd/Screenshot%202026-01-24%2011.42.57%20PM.png"
                           style="width:100px; height:120px; display:block; border-radius:4px;" />
                         <div style="font-weight:bold;">Aradhana Q&A</div>
-                        <div style="font-size:12px;">What do you do when someone important dies? (-JD)</div>
+                        <div style="font-size:12px;">What do you do when someone important dies? (JD)</div>
                       </a>
                     </td>
                     <td align="center" style="padding:8px;">
                       <a href="https://www.visiblemantra.org/amitabha.html" target="_blank" style="text-decoration:none; color:#4a4a3f;">
                         <img src="https://www.visiblemantra.org/figures/amitabha.gif"
                           style="width:100px; height:120px; display:block; border-radius:4px;" />
-                        <div style="font-weight:bold;">Visible Mantra~Amitabha</div>
-                        <div style="font-size:12px;">For my linguists and humanists (&lt;3 Luisa)</div>
+                        <div style="font-weight:bold;">Visible Mantra: Amitabha</div>
+                        <div style="font-size:12px;">dwells in his pureland called Sukhāvatī - the happy realm</div>
                       </a>
                     </td>
                     <td align="center" style="padding:8px;">
                       <a href="https://ancientinfinityorchestra.bandcamp.com/album/its-always-about-love" target="_blank" style="text-decoration:none; color:#4a4a3f;">
                         <img src="https://f4.bcbits.com/img/a2656801600_16.jpg"
                           style="width:120px; height:130px; display:block; border-radius:4px;" />
-                        <div style="font-weight:bold;">It's Always About Love_AIO</div>
-                        <div style="font-size:12px;">What's a library without music??</div>
+                        <div style="font-weight:bold;">It's Always About Love</div>
+                        <div style="font-size:12px;">All I Can Say of the Blossoms</div>
                       </a>
                     </td>
                   </tr>
                   <tr>
                     <td align="center" style="padding:8px;">
-                      <a href="https://www.ebay.com/itm/336238018366" target="_blank" style="text-decoration:none; color:#4a4a3f;">
-                        <img src="https://dancingelephant.shop/cdn/shop/files/F5D4E7D0-2340-454E-AA13-89E25E764963.jpg?v=1709410115&width=1206"
-                          style="width:100px; height:120px; display:block; border-radius:4px;" />
-                        <div style="font-weight:bold;">The Yellow Book</div>
-                        <div style="font-size:12px;">Quotes from Baba Hari Dass (-LR)</div>
+                      <a href="https://pastortlbarrett.bandcamp.com/track/wonderful" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+                        <img src="https://lh3.googleusercontent.com/5x_Z1Q4s-dkvnPD3ZUskgXV3nU-Y_gClAcJXjpJZ9vCWLNVi8vAbt_Y1C5EQKKe3muSl2SzZGg8mecs"
+                          style="width:120px; height:120px; display:block; border-radius:4px;" />
+                        <div style="font-weight:bold;">Wonderful</div>
+                        <div style="font-size:12px;">Pastor T. Barret and youth choir (Em from MMC)</div>
                       </a>
                     </td>
                     <td align="center" style="padding:8px;">
-                      <a href="https://example.com/book5" target="_blank" style="text-decoration:none; color:#4a4a3f;">
-                        <img src="https://via.placeholder.com/100x150.png?text=Book+5"
+                      <a href="https://waadookodaading.org/" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+                        <img src="https://waadookodaading.org/wp-content/uploads/logo.png"
                           style="width:100px; height:120px; display:block; border-radius:4px;" />
-                        <div style="font-weight:bold;">Book Title Five</div>
-                        <div style="font-size:12px;">For my linguists and humanists (&lt;3 Luisa)</div>
+                        <div style="font-weight:bold;">Ojibwe language Institute</div>
+                        <div style="font-size:12px;">Indigenous sovereignty success story: transformative education in practice. (Millie) </div>
                       </a>
                     </td>
                     <td align="center" style="padding:8px;">
-                      <a href="https://example.com/book6" target="_blank" style="text-decoration:none; color:#4a4a3f;">
-                        <img src="https://via.placeholder.com/100x150.png?text=Book+6"
-                          style="width:100px; height:150px; display:block; border-radius:4px;" />
-                        <div style="font-weight:bold;">Book Title Six</div>
-                        <div style="font-size:12px;">For my linguists and humanists (&lt;3 Luisa)</div>
+                      <a href="https://www.waasabiikimmersionschool.com/" target="_blank" style="text-decoration:none; color:#4a4a3f;">
+                        <img src="https://static.wixstatic.com/media/fbc6fa_a86b30a491d74a95a1fd8014eabd7aa9~mv2.png/v1/crop/x_59,y_48,w_376,h_385/fill/w_196,h_202,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Waasabiik%20Ojibwemotaadiwin%20Immersion%20School%20Logo.png"
+                          style="width:100px; height:110px; display:block; border-radius:4px;" />
+                        <div style="font-weight:bold;">Aaniin
+Boozhoo.</div>
+                        <div style="font-size:12px;">I See Your Light.</div>
                       </a>
                     </td>
                   </tr>
                 </table>
                 <!-- END LITTLE FREE LIBRARY -->
 
-                <!-- MEDITATION SESSIONS -->
-                <table width="100%" cellpadding="0" cellspacing="0" style="margin:24px 0;">
+
+  <table
+  width="100%"
+  cellpadding="0"
+  cellspacing="0"
+  border="0"
+  style="
+    background-color: #ffffff;
+    color: inherit;
+    padding: 20px;
+    border-radius: 12px;
+    font-size: 13px;
+  "
+>
+  <tr>
+    <td style="max-width: 600px; margin: 0 auto; line-height: 1;">
+      
+      <h2 style="margin-top: 0;">Events</h2>
+
+      <p style="font-style: italic; margin-top: 0;">
+        The world is not on the internet, silly… the internet is on the world
+      </p>
+        <strong>Santa Cruz, CA</strong>
+      <ul>
+        <li>
+          Afternoon of pick-up basketball and sunset jump in the ocean
+          <ul>
+            <li>3pm–sundown @ Garfield Park this Friday</li>
+          </ul>
+        </li>
+
+        <li>
+          Get overwhelmed and go on a healing journey involving multiple dimensions
+          <ul>
+            <li>Try to move away and get stuck in town forever</li>
+            <li>Try to stay in town and move around forever</li>
+          </ul>
+        </li>
+
+        <li>
+          Yoga and brunch at Mount Madonna Center &amp; Hanuman Temple
+          <ul>
+            <li>Every Saturday @ 7:30 AM (Watsonville)</li>
+          </ul>
+        </li>
+      </ul>
+        <strong>Taos, NM</strong>
+
+      <ul>
+        <li>
+          Befriend extraterrestrials on the Mesa at 1:08 AM (every night)
+        </li>
+        <li>
+          Enjoy chai, food, and seva at Hanuman Temple
+        </li>
+        <li>
+          <a href="https://movementlab.dance/dance-classes/" target="_blank" style="text-decoration:underline; color:#4a4a3f;">Movement Lab! </a>
+          <ul><li>Tuesdays 5:00-6:30 pm @ TCA</li>
+            <li>free/by donation</li></ul>
+        </li>
+        <li><a href="https://livetaos.com/locations/unity-of-taos/" target="_blank" style="text-decoration:underline; color:#4a4a3f;">Improv at Chunity</a></li>
+        <ul><li>Wednesdays 6-8 pm </li><li>69 Blueberry Hill Road</li>
+            <li>free/by donation</li></ul>
+      </ul>
+        <strong>East Lansing, MI</strong><ul>
+        <li>Snow</li>
+        <ul><li>Peace</li></ul>
+      </ul>
+      <!-- Divider -->
+                <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
                   <tr>
-                    <td style="font-family: Georgia, serif; color:#333;">
+                    <td height="1" style="background-color:#b78bd6; line-height:1px; font-size:1px;">&nbsp;</td>
+                  </tr>
+                </table>
+
+
+
+                <!-- MEDITATION SESSIONS -->
+                <table 
+                  width="100%"
+                  cellpadding="0"
+                  cellspacing="0"
+                  border="0"
+                  style="
+                    background-color: #eeeeee;
+                    color: inherit;
+                    font-family: 'Palentino', serif;
+                    padding: 20px;
+                    border-radius: 0px;
+                  ">
+                  <tr>
+                    <td>
                       <div style="font-size:18px; font-weight:bold; margin-bottom:10px;">
                         Meditation Sessions
                       </div>
@@ -415,16 +508,24 @@
                         Interested but can't make it? A new 30-min class time is coming soon, so enter your availability
                         <a href="https://www.when2meet.com/?34459927-99tGT" style="color:#429373; text-decoration:underline;">here!</a>
                       </div>
-                      <div style="font-size: 16px; line-height:1.6; margin-bottom:10px;">
-                      </div>
-                      <div style="font-family: Arial, sans-serif; font-size: 16px; padding-left:14px; color:#555a;">
-                        <div style="margin-bottom:6px;">
+                  <div style="font-size: 16px; line-height:1.6; margin-bottom:10px;">
+                    </div>
+                    
+                          <img
+              src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmountmadonna.org%2Fwp-content%2Fuploads%2F2024%2F06%2Fmount-madonna-website-baba-hari-dass-gallery-03-745x1024.jpg&f=1&nofb=1&ipt=6f5eb8196084f9ddf76e54fc3288a83fea4e0deaae14e4d75ff7b4786b1db931"
+              alt="Baba Hari Dass"
+              width="180"
+              style="display:block; border:0; outline:none; text-decoration:none; height:auto;"
+                           />
+                        
+                      <p style="font-size: 16px; padding-left:14px; color:#555a;">
+                      <div style="margin-bottom:6px;font-style:italic;">
                           “Love everyone, including yourself. That is real sadhana (practice).”
                         </div>
-                        <div style="text-align:right;">
+                        <div style="font-size: 13px; text-align:right;">
                           — Baba Hari Dass
                         </div>
-                      </div>
+                      </p>
                     </td>
                   </tr>
                 </table>
